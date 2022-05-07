@@ -7,4 +7,10 @@ button {
     display: flex;
     flex: auto;
     justify-content: center;
+    margin-bottom: 50px;
+}
+
+.game-history {
+    padding: 20px;
+    border: solid rgb(87, 162, 247);
 }
